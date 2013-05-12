@@ -20,7 +20,7 @@ public class Square {
     public static int square(int number) {
         int result = 0;
         
-        
+        result = number * number;
         
         return result;
     }
